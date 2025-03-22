@@ -16,9 +16,11 @@ Link:https://replit.com/@anuprahamonu198/mad-libs-game
 
 
 # Example Output
-![image](https://github.com/user-attachments/assets/5283cc49-2443-4634-80c6-6d76ec8c4782)
-![image](https://github.com/user-attachments/assets/4fe8a689-1c43-4f54-8b15-2b1006ee2ee9)
-![image](https://github.com/user-attachments/assets/a517ccf8-1581-4295-8002-c7ea039be1df)
+![Screenshot 2025-03-22 204854](https://github.com/user-attachments/assets/53b2b5f5-abc0-433b-abc5-909c27ae098e)
+![Screenshot 2025-03-22 204904](https://github.com/user-attachments/assets/9f9a43c2-c821-4616-91d8-504e364abc21)
+![Screenshot 2025-03-22 204914](https://github.com/user-attachments/assets/b9aae495-fb76-48c3-b16f-db2ef446b25c)
+
+
 
 Feel free to make changes and improve this project...
 
